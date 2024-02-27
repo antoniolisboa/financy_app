@@ -14,7 +14,7 @@ class SplashPage extends StatelessWidget {
           gradient: LinearGradient(
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
-            colors: AppColors.greenGradient,
+            colors: AppColors.splashGradient,
           ),
         ),
         child: Text(
