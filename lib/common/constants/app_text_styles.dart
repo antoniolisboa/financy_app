@@ -4,7 +4,8 @@ class AppTextStyles {
   AppTextStyles._();
 
   static const TextStyle bigTextStyle = TextStyle(
-    fontSize: 46,
+    fontFamily: 'Inter',
+    fontSize: 50,
     fontWeight: FontWeight.bold,
   );
 }
